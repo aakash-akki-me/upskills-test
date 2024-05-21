@@ -46,14 +46,17 @@
 
 //  Question 6 api call and show it to console 
 
+// async function getdata (){
+//     try{
+//         const data = await fetch('https://jsonplaceholder.typicode.com/posts/1');
+//         const cleanData = await data.json();
+//         console.log('Data', cleanData);
+//     }catch(error){
+//         console.log('error', error);
+//     }
+// }
 
-
-// console.log(123);
-// const getData = async () =>  {
-//     fetch('https://jsonplaceholder.typicode.com/posts/1')
-//     .then(e => console.log(e))
-// };
-// getData()
+// getdata()
 
 
 
